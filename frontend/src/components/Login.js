@@ -15,10 +15,10 @@ class Login extends React.Component {
     }
 
     componentDidMount() {
-
+        console.log('login component mounted');
     }
     componentWillUnmount() {
-
+        console.log('login component unmounted');
     }
 
     updateUsername(event) {

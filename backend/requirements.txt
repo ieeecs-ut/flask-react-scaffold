@@ -1,2 +1,5 @@
 flask
 numpy
+flask_mongoengine
+flask_cors
+flask_jwt_extended
